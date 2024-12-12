@@ -10,7 +10,8 @@ lopticky = []
 
 def Start():
     Vytvor_lopticky()
-
+    
+a = tk.PhotoImage(file="Apple.png")
 def Vytvor_lopticky():
     x = 10
     y = 10
